@@ -1,3 +1,4 @@
+// Importación CON Módulos. Cambia la extensión a mjs, aunque no es necesario
 import os from "node:os";
 
 console.log("Información del sistema operativo:");

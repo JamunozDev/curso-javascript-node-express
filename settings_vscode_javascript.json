@@ -1,0 +1,56 @@
+{
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "editor.minimap.enabled": false,
+    "terminal.integrated.fontFamily": "Hack Nerd Font Mono",
+    "editor.inlayHints.fontFamily": "Hack Nerd Font Mono",
+    "editor.fontFamily": "Hack Nerd Font Mono",
+    "editor.fontSize": 13,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "eslint.debug": true,
+    "editor.tabSize": 2,
+    "zenMode.hideActivityBar": false,
+    "editor.fontLigatures": true,
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.editor.historyBasedLanguageDetection": true,
+    "explorer.confirmDelete": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features",
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "zenMode.centerLayout": false,
+    "[javascript]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "errorLens.fontWeight": "700",
+    "errorLens.fontSize": "10px",
+    "editor.wordWrap": "on",
+    "cSpell.enabled": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
+    "editor.inlineSuggest.enabled": true,
+    "errorLens.gutterIconSet": "borderless",
+    "git.confirmSync": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "oneDarkPro.bold": true,
+    "cSpell.userWords": [
+        "coerción",
+        "Contenfull"
+    ],
+    "cSpell.enabledFileTypes": {
+        "markdown": true,
+        "html": false,
+        "js": false,
+        "json": false
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "always"
+    },
+    "workbench.sideBar.location": "right",
+    "cSpell.language": "es, en",
+    "prettier.printWidth": 150
+}
